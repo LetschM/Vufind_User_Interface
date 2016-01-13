@@ -1,0 +1,6 @@
+<a id="g_401928553ce640119377f13714264cdc" href="#">
+	Gesamtes Buch als PDF herunterladen (2,4 MB) 
+</a>
+<script> jQuery(function(){
+jQi('g_401928553ce640119377f13714264cdc').jasty("AjaxLink", "init", [{"id":"g_401928553ce640119377f13714264cdc", "visible":true, "confirmTitle":"Hinweis", "params":{"srcId":"g_401928553ce640119377f13714264cdc", "id":"EBOK__9783957101082196", "index":"2", "fileName":"EBOK__2014__978-3-95710-108-2.pdf"}, "url":"/stream/downloadConsole"}]);
+}) </script>
